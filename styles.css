@@ -1,6 +1,16 @@
 body {
-  background-color: antiquewhite;
+  background-color: lightgray;
   font-family: 'Arimo', sans-serif;
   font-size: 23px;
 
+}
+
+a {
+  height:30px;
+  padding:0 5px;
+  display: inline-block;
+  text-align: inline-block;
+  background-color: lightsalmon;
+  color: black;
+  border-radius:20px
 }
